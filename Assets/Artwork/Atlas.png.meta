@@ -725,7 +725,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Atlas_1
+      name: stairs_0
       rect:
         serializedVersion: 2
         x: 80
@@ -1186,6 +1186,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: floor_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c406ca02ba49ed488b7624950ff6a9e
+      internalID: 153669169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1198,6 +1219,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       pilar_0: -1775294405
+      stairs_0: -1711158034
       wall_0: 1920803480
       smallPilar_1: 856625407
       stairs_1: -2095566188
@@ -1209,9 +1231,9 @@ TextureImporter:
       smallPilar_0: 1446182466
       player_0: -482664633
       floor_4: 1155897695
+      floor_14: 153669169
       wall_3: 1026209774
       wall_5: 336109959
-      Atlas_1: -1711158034
       torch_6: 1016991095
       crate_2: 1610572261
       pilar_1: -443131899
